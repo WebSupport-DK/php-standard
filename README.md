@@ -1,2 +1,2 @@
-# php-standard
-Standard php functions and more.
+# php-basics
+Getting started and learn basic PHP.
